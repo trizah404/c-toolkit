@@ -6,7 +6,7 @@ int main() {
     int i;
 
     while(1) {
-        printf("\n=== C Toolkit ===\n");
+        printf("C Toolkit\n");
         printf("1. Odd or Even\n");
         printf("2. Simple Interest\n");
         printf("3. Temperature Conversion\n");
